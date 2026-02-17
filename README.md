@@ -30,7 +30,7 @@ Select the desired password options
 
 Click Generate Password to create a secure password
 
-git clone https://github.com/your-username/random-password-generator.git
+git clone [https://github.com/your-username/random-password-generator.git](https://github.com/VarunGupta2327/Random-password-generator.git)
 
 📌 Purpose
 
